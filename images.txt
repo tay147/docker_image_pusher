@@ -1,4 +1,1 @@
-elasticsearch:8.10.2
-db:1.4.3
-server:1.4.3
-ingestion:1.4.3
+openmetadata/ingestion:1.4.3
