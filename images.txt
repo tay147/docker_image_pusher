@@ -1,1 +1,1 @@
-openmetadata/ingestion:1.4.3
+openmetadata/db:1.4.3
