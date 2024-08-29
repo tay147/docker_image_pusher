@@ -1,1 +1,1 @@
-openmetadata/server:1.4.3
+apachepinot/pinot:1.1.0
